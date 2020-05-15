@@ -1,1 +1,1 @@
-yolov3-SH-new.h5 filter=lfs diff=lfs merge=lfs -text
+model_data/yolov3-SH-new.h5 filter=lfs diff=lfs merge=lfs -text
